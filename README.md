@@ -1,2 +1,2 @@
-# data_structures_c_plus_plus
+# data_structures_and_algorithms
 as it states
